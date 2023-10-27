@@ -4,6 +4,9 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     justify-items: center;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
     gap: 20px;
 }
 .red1 { 
@@ -26,10 +29,13 @@ background-color: gold;
 width: 100px; 
 height: 100px; 
 background-color: blue; 
-} 
- /* Activity 2 styles */ 
+}  
+
 .content2 {
-    /* This is the parent of the activity 2 boxes. */
+  justify-items: center;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
 }
 .red2 {
 width: 100px; 
@@ -51,9 +57,12 @@ width: 100px;
 height: 100px; 
 background-color: blue; 
 } 
- /* Activity 3 styles */ 
+  
 .content3 {
-    /* This is the parent of the activity 3 boxes. */
+    justify-content: center;
+    align-content: center;
+    justify-items: center;
+    align-items: center;
 }
 .red3 {
 width: 100px; 
