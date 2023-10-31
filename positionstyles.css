@@ -3,10 +3,10 @@
 .content1 {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    justify-items: center;
-    align-items: center;
     justify-content: center;
     align-content: center;
+    justify-items: center;
+    align-items: center;
     gap: 20px;
 }
 .red1 { 
@@ -29,13 +29,12 @@ background-color: gold;
 width: 100px; 
 height: 100px; 
 background-color: blue; 
-}  
-
+}
 .content2 {
-  justify-items: center;
-  align-items: center;
-  justify-content: center;
-  align-content: center;
+    justify-items: center;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
 }
 .red2 {
 width: 100px; 
@@ -56,8 +55,7 @@ background-color: gold;
 width: 100px; 
 height: 100px; 
 background-color: blue; 
-} 
-  
+}  
 .content3 {
     justify-content: center;
     align-content: center;
