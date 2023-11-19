@@ -1,0 +1,20 @@
+/* Global styles (existing styles for my website) */
+
+/* Styles specific to the rafting subpage */
+.intro {
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .rafting-info,
+  .tips {
+    background-color: #eaeaea;
+    padding: 15px;
+    margin-bottom: 20px;
+  }
+  
+  /* To Add more specific styles for different sections */
+  
+  /* To add  Media queries and other existing styles */
+  
